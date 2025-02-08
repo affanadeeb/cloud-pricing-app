@@ -3,6 +3,11 @@
 ## Overview
 The Cloud Pricing App allows users to search and compare cloud instances, such as AWS EC2 and RDS, based on their specific requirements. Users can filter instances by cloud type, region, RAM, and CPU to find the most efficient options for their workloads.
 
+Page View:
+![image](https://github.com/user-attachments/assets/4ae9f99d-6a43-4310-8164-b08ddc1ab087)
+![image](https://github.com/user-attachments/assets/e420a802-eeb9-4430-8d27-d01a9853d50d)
+
+
 ## Features
 - Filter instances based on:
   - Cloud type (e.g., AWS)
